@@ -1,0 +1,16 @@
+{
+  "name": "ServerBackend",
+  "version": "0.0.1",
+  "description": "Backend para mi web personal",
+  "main": "index.js",
+  "author": "Aderlín  Cruz",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.14"
+  }
+}
